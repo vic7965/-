@@ -1,0 +1,9 @@
+*{font-family: 'Gothic A1', sans-serif;}
+        .wrapper {
+            background-image: url(https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg);
+            color: white;
+            width: 300px;
+    height: 300px;
+    border-radius: cover;
+
+        }
